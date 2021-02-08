@@ -1,0 +1,47 @@
+.home {
+    position: relative;
+
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("img/home.png");
+  height: auto;
+}
+.vl {
+    border-left: 8px solid rgb(60, 177, 206);
+    height: 60px;
+   
+  }
+
+  .choose {
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/cbg.png");
+    height: 650px;
+  }
+  .client {
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/test.png");
+    height: 650px;
+  }
+  .grow {
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("img/des.png");
+    height: 200px;
+    width: 100%;
+  }
+  a {
+    text-decoration: none;
+  }
