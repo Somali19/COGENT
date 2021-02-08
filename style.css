@@ -39,7 +39,7 @@
     background-repeat: no-repeat;
     background-size: cover;
      background-color: rgb(29, 150, 187);
-    height: 200px;
+    height: auto;
     width: 100%;
   }
   a {
