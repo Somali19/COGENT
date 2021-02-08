@@ -38,7 +38,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url("img/des.png");
+     background-color: rgb(29, 150, 187);
     height: 200px;
     width: 100%;
   }
